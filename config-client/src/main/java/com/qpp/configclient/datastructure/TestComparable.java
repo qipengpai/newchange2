@@ -4,6 +4,7 @@ import java.util.*;
 
 public class TestComparable {
     public static void main(String[] args){
+        //为了提交
         //取数据
         List<Person> personList = generatePersonList();
         //排序一: 正常
